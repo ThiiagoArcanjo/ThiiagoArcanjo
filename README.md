@@ -1,11 +1,11 @@
-###   Oi! Eu sou o Thiago Arcanjo ✌🏿
+###   <h2>Oi! Eu sou o Thiago Arcanjo ✌🏿</h2>
 
-- <p align="justify"><font size="4">🐳 Estou interessado em aprender e compartilhar conhecimento.</font></p>
+- <p align="justify">🐳 Estou interessado em aprender e compartilhar conhecimento.</p>
 - <p align="justify">🌱 Atualmente como um absoluto principiante estou reaprendendo a programar.</p>
 - <p align="justify">🐸 Interesso-me em melhorar como ser, buscando o máximo respeito com mundo e todos seus habitantes, com  a responsabilidade  que a verdadeira liberdade exige, portando procuro trabalhar e cooperar com tecnologias que nos auxiliem a melhorar pessoalmente e socialmente.</p>
 
 <div id=linguagens>
-<b>Linguagens estudadas atualmente:</b><br>
+<b><h3>Tecnologias estudadas atualmente:</h3></b>
 <a href="#">
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
