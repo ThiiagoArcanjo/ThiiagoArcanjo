@@ -2,7 +2,7 @@
 
 - <p align="justify">🐳 Estou interessado em aprender e compartilhar conhecimento.</p>
 - <p align="justify">🌱 Atualmente como um absoluto principiante estou reaprendendo a programar.</p>
-- <p align="justify">🐸 Interesso-me em melhorar como ser, buscando o máximo respeito com mundo e todos seus habitantes, com  a responsabilidade  que a verdadeira liberdade exige, portando procuro trabalhar e cooperar com tecnologias que nos auxiliem a melhorar pessoalmente e socialmente.</p>
+- <p align="justify">🐸 Interesso-me em melhorar como ser, buscando o máximo respeito com o mundo e todos seus habitantes, com  a responsabilidade  que a verdadeira liberdade exige, portando procuro trabalhar e cooperar com tecnologias que nos auxiliem a melhorar pessoalmente e socialmente.</p>
 
 <div id=linguagens>
 <b><h3>Tecnologias estudadas atualmente:</h3></b>
