@@ -17,15 +17,6 @@
 </div>
 <hr>
 
-<div id="card">
-<a href="#">
-
-![ThiiagoArcanjo GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiiagoArcanjo&show_icons=true&theme=merko)</a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiiagoArcanjo&layout=compact&theme=merko)](https://github.com/ThiiagoArcanjo)
-
-</div>
-
-<hr>
-
 <div id="contato">
   <b>Contato:</b><br>
   <a href="https://www.linkedin.com/in/thiagoarcanjodeoliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
